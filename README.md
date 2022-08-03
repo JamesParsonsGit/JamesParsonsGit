@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-![light-saber](https://user-images.githubusercontent.com/85028464/182727605-09052a8a-c928-4b77-9b30-caa0ff8af8db.png)
-
 <!--
 **JamesParsonsGit/JamesParsonsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
