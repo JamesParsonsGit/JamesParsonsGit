@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+<a href="https://www.flaticon.com/free-icons/jedi" title="jedi icons">Jedi icons created by Freepik - Flaticon</a>
 
 <!--
 **JamesParsonsGit/JamesParsonsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
