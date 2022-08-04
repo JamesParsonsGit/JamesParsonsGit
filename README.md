@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 <a href="https://www.python.org"> 
-  <img src="images/python-logo.png" alt="python" style="height:50px;"/>
+  <img src="images/python.png" alt="python" style="height:50px;"/>
 </a>
 
 <!--
