@@ -1,10 +1,9 @@
 ### Hello there 👋
 
-<a href="" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 <a href="https://www.python.org"> 
   <img src="images/python-logo.png" alt="python" style="height:50px;"/>
 </a>
-&nbsp &nbsp
+
 <!--
 **JamesParsonsGit/JamesParsonsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
