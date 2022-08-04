@@ -3,7 +3,7 @@
   <a href=#><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h3>
 
-I'm currently learning in my spare time and looking to become a Data Analyst! 🌱
+I'm currently learning in my spare time and looking to become a Data Analyst 🌱
 ## Programming and markup languages:
 
 <p>
