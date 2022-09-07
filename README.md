@@ -22,6 +22,7 @@ I'm currently learning in my spare time and looking to become a Data Analyst �
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
 <a href=#><img alt="Numpy" src="https://custom-icon-badges.herokuapp.com/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 <a href=#><img alt="Plotly" src="https://custom-icon-badges.herokuapp.com/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
+<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
 <a href=#><img alt="SQLite3" src="https://custom-icon-badges.herokuapp.com/badge/SQLite3-003B57.svg?logo=sqlite&logoColor=white"></a>
 <!--
 **JamesParsonsGit/JamesParsonsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
