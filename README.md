@@ -4,7 +4,7 @@
 </h3>
 
 I'm currently learning 🌱
-## Programming and markup languages:
+## Programming and markup languages
 
 <p>
    <a href="https://github.com/search?q=user%3AJamesParsonsGit+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -16,7 +16,7 @@ I'm currently learning 🌱
 </a>
 </p>
 
-## Frameworks and libraries:
+## Frameworks and libraries
 
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
@@ -24,6 +24,16 @@ I'm currently learning 🌱
 <a href=#><img alt="Plotly" src="https://custom-icon-badges.herokuapp.com/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
 <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
 <a href=#><img alt="SQLite3" src="https://custom-icon-badges.herokuapp.com/badge/SQLite3-003B57.svg?logo=sqlite&logoColor=white"></a>
+
+## Certifications
+Google Data Analysis Certificate <br><br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/W69HSHTJAPQ5"><img alt="Foundations" src="https://img.shields.io/badge/Foundations-4285F4.svg?logo=google&logoColor=white"></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/Q7JNHYYPMQZZ"><img alt="Asking Questions" src="https://img.shields.io/badge/Asking Questions-DB4437.svg?logo=google&logoColor=white"></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/WEYGQRSHENLB"><img alt="Preparing Data" src="https://img.shields.io/badge/Preparing Data-F4B400.svg?logo=google&logoColor=white"></a>
+<a href="#"><img alt="Cleaning Data" src="https://img.shields.io/badge/Cleaning Data-0F9D58.svg?logo=google&logoColor=white"></a>
+<a href="#"><img alt="Data Analysis" src="https://img.shields.io/badge/Data Analysis-4285F4.svg?logo=google&logoColor=white"></a>
+<a href="#"><img alt="Data Visualisations" src="https://img.shields.io/badge/Data Visualisation-DB4437.svg?logo=google&logoColor=white"></a>
+
 <!--
 **JamesParsonsGit/JamesParsonsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
