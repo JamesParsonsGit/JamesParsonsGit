@@ -26,12 +26,12 @@ I'm currently learning 🌱
 <a href=#><img alt="SQLite3" src="https://custom-icon-badges.herokuapp.com/badge/SQLite3-003B57.svg?logo=sqlite&logoColor=white"></a>
 
 ## Certifications
-Google Data Analysis Certificate <br><br>
+Google Data Analysis Certificate - Click the buttons below to view each certificate: <br><br>
 <a href="https://www.coursera.org/account/accomplishments/certificate/W69HSHTJAPQ5"><img alt="Foundations" src="https://img.shields.io/badge/Foundations-4285F4.svg?logo=google&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/Q7JNHYYPMQZZ"><img alt="Asking Questions" src="https://img.shields.io/badge/Asking Questions-DB4437.svg?logo=google&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/WEYGQRSHENLB"><img alt="Preparing Data" src="https://img.shields.io/badge/Preparing Data-F4B400.svg?logo=google&logoColor=white"></a>
-<a href="#"><img alt="Cleaning Data" src="https://img.shields.io/badge/Cleaning Data-0F9D58.svg?logo=google&logoColor=white"></a>
-<a href="#"><img alt="Data Analysis" src="https://img.shields.io/badge/Data Analysis-4285F4.svg?logo=google&logoColor=white"></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/V3PA8FFWZQDY"><img alt="Cleaning Data" src="https://img.shields.io/badge/Cleaning Data-0F9D58.svg?logo=google&logoColor=white"></a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/QX7GTZBJMZRL"><img alt="Analysing Data" src="https://img.shields.io/badge/Analysing Data-4285F4.svg?logo=google&logoColor=white"></a>
 <a href="#"><img alt="Data Visualisations" src="https://img.shields.io/badge/Data Visualisation-DB4437.svg?logo=google&logoColor=white"></a>
 
 <!--
