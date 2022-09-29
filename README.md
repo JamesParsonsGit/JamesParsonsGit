@@ -1,10 +1,13 @@
 <h3>
-  Welcome to my profile!
+  Hello there!
   <a href=#><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h3>
 
-I'm currently learning 🌱
-## Programming and markup languages
+I'm currently learning in my spare time 🌱
+
+<details>
+  <summary><b>&nbsp;👨‍💻&nbsp;Languages&nbsp;</b></summary>
+ <br>
 
 <p>
    <a href="https://github.com/search?q=user%3AJamesParsonsGit+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -16,7 +19,11 @@ I'm currently learning 🌱
 </a>
 </p>
 
-## Frameworks and libraries
+</details>
+
+<details>
+  <summary><b>&nbsp;📚&nbsp;Frameworks&nbsp;&&nbsp;Libraries&nbsp;</b></summary>
+ <br>
 
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
@@ -25,15 +32,20 @@ I'm currently learning 🌱
 <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
 <a href=#><img alt="SQLite3" src="https://custom-icon-badges.herokuapp.com/badge/SQLite3-003B57.svg?logo=sqlite&logoColor=white"></a>
 
-## Certifications
+</details>
 
-**Google Data Analysis Certificate** - Click the buttons below to view each certificate: <br><br>
+<details>
+  <summary><b>&nbsp;🏆&nbsp;Certifications&nbsp;</b></summary>
+ <br>
+
 <a href="https://www.coursera.org/account/accomplishments/certificate/W69HSHTJAPQ5"><img alt="Foundations" src="https://img.shields.io/badge/Foundations-4285F4.svg?logo=google&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/Q7JNHYYPMQZZ"><img alt="Asking Questions" src="https://img.shields.io/badge/Asking Questions-DB4437.svg?logo=google&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/WEYGQRSHENLB"><img alt="Preparing Data" src="https://img.shields.io/badge/Preparing Data-F4B400.svg?logo=google&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/V3PA8FFWZQDY"><img alt="Cleaning Data" src="https://img.shields.io/badge/Cleaning Data-0F9D58.svg?logo=google&logoColor=white"></a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/QX7GTZBJMZRL"><img alt="Analysing Data" src="https://img.shields.io/badge/Analysing Data-4285F4.svg?logo=google&logoColor=white"></a>
 <a href="#"><img alt="Data Visualisations" src="https://img.shields.io/badge/Data Visualisation-DB4437.svg?logo=google&logoColor=white"></a>
+
+</details>
 
 <!--
 **JamesParsonsGit/JamesParsonsGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
